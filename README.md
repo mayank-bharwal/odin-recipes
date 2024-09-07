@@ -2,8 +2,8 @@
 
 A collection of simple and delicious recipes:
 
-- [Banana Cake](./banana-cake.md)
-- [Strawberry Ice Cream](./strawberry-ice-cream.md)
-- [Cornmeal Cookies](./cornmeal-cookies.md)
+- [Banana Cake]
+- [Strawberry Ice Cream]
+- [Cornmeal Cookies]
 
 Enjoy baking!
